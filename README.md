@@ -6,7 +6,7 @@
 - O Linux tem uma conta de superadministrador "root".
 - "root" é a conta máxima que pode ser criada, excluída, modificada e alterada do sistema
 
-#### Linux File System
+#### Sistema de arquivos Linux
 
 ![linux-filesystem](https://github.com/isaccanedo/Linux-Command/blob/master/linux.png)
 
