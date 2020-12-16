@@ -1,14 +1,14 @@
 # Linux-Command
 
-#### Important things to remember
+#### Coisas importantes para lembrar
 
-- Linux เป็นระบบที่คำนึงถึงตัวพิมพ์เล็กและใหญ่
-- Linux มีบัญชีผู้ดูแลระบบขั้นสูง "root"
-- "root" เป็น account สูงสุดที่สามารถสร้างบัญชีลบแก้ไขและทำการเปลี่ยนแปลงระบบได้
+- Linux é um sistema que diferencia maiúsculas de minúsculas.
+- O Linux tem uma conta de superadministrador "root".
+- "root" é a conta máxima que pode ser criada, excluída, modificada e alterada do sistema
 
 #### Linux File System
 
-![linux-filesystem](https://user-images.githubusercontent.com/15135199/100316088-66e4f380-2fec-11eb-9566-b1bea2de44bb.png)
+![linux-filesystem](https://github.com/isaccanedo/Linux-Command/blob/master/linux.png)
 
 - Commands = /usr/bin
 - Attached Device = /dev
